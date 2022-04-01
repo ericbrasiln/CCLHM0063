@@ -27,7 +27,7 @@ Universidade da Integração Internacional da Lusofonia Afro-brasileira
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
-# Cronograma 📆
+## Cronograma 📆
 
 A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
@@ -47,9 +47,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 1
+### Semana 1
 
-### Período: 04/04/2022 - 08/04/2022
+Período: 04/04/2022 - 08/04/2022
 
 | Módulo        | 1 - O Atlântico como conceito historiográfico | 1 - O Atlântico como conceito historiográfico                                     |
 | ------------- |:--------------------------------------------- |:--------------------------------------------------------------------------------- |
@@ -60,9 +60,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 2
+### Semana 2
 
-### Período: 11/04/2022 - 15/04/2022
+Período: 11/04/2022 - 15/04/2022
 
 | Módulo        | 1 - O Atlântico como conceito historiográfico | 1 - O Atlântico como conceito historiográfico |
 | ------------- | :--------------------------------------------- | :--------------------------------------------- |
@@ -73,9 +73,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 3
+### Semana 3
 
-### Período: 18/04/2022 - 22/04/2022
+Período: 18/04/2022 - 22/04/2022
 
 | Módulo        | 2 - Impérios, economias e explorações transatlânticas                    |
 | ------------- | :------------------------------------------------------------------------ |
@@ -86,9 +86,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 4
+### Semana 4
 
-### Período: 25/04/2022 - 29/04/2022
+Período: 25/04/2022 - 29/04/2022
 
 | Módulo        | 2 - Impérios, economias e explorações transatlânticas |
 | ------------- | ----------------------------------------------------- |
@@ -99,9 +99,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 5
+### Semana 5
 
-### Período: 02/05/2022 - 06/05/2022
+Período: 02/05/2022 - 06/05/2022
 
 | Módulo        | 2 - Impérios, economias e explorações transatlânticas | 2 - Impérios, economias e explorações transatlânticas |
 | ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
@@ -112,9 +112,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 6
+### Semana 6
 
-### Período: 09/05/2022 - 13/05/2022
+Período: 09/05/2022 - 13/05/2022
 
 | Módulo        | 3 - O Atlântico Revolucionário | 3 - O Atlântico Revolucionário         |
 | ------------- | ------------------------------ | -------------------------------------- |
@@ -125,9 +125,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 7
+### Semana 7
 
-### Período: 16/05/2022 - 20/05/2022
+Período: 16/05/2022 - 20/05/2022
 
 | Módulo        | 3 - O Atlântico Revolucionário                 |
 | ------------- | ---------------------------------------------- |
@@ -138,9 +138,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ---
 
-## Semana 8
+### Semana 8
 
-### Período: 23/05/2022 - 27/05/2022
+Período: 23/05/2022 - 27/05/2022
 
 CH = 7h
 
@@ -153,9 +153,9 @@ CH = 7h
 
 ---
 
-## Semana 9
+### Semana 9
 
-### Período: 30/05/2022 - 03/06/2022
+Período: 30/05/2022 - 03/06/2022
 
 | Módulo        | 4 - Liberdade, Emancipações e Abolição: questões Atlânticas                   | 4 - Liberdade, Emancipações e Abolição: questões Atlânticas |
 | ------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -166,9 +166,9 @@ CH = 7h
 
 ---
 
-## Semana 10
+### Semana 10
 
-### Período: 06/06/2022 - 10/06/2022
+Período: 06/06/2022 - 10/06/2022
 
 | Módulo        | 3 - O Atlântico Revolucionário | 3 - O Atlântico Revolucionário |
 | ------------- | ------------------------------ | ------------------------------ |
@@ -179,9 +179,9 @@ CH = 7h
 
 ---
 
-## Semana 11
+### Semana 11
 
-### Período: 13/06/2022 - 17/06/2022
+Período: 13/06/2022 - 17/06/2022
 
 | Módulo        | 4 - Liberdade, Emancipações e Abolição: questões Atlânticas |
 | ------------- | ----------------------------------------------------------- |
@@ -192,9 +192,9 @@ CH = 7h
 
 ---
 
-## Semana 12
+### Semana 12
 
-### Período:  20/06/2022 - 24/06/2022
+Período:  20/06/2022 - 24/06/2022
 
 | Módulo        | 4 - Liberdade, Emancipações e Abolição: questões Atlânticas | 4 - Liberdade, Emancipações e Abolição: questões Atlânticas |
 | ------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
@@ -205,9 +205,9 @@ CH = 7h
 
 ---
 
-## Semana 13
+### Semana 13
 
-### Período:  27/06/2022 - 01/07/2022
+Período:  27/06/2022 - 01/07/2022
 
 | Módulo        | 4 - Liberdade, Emancipações e Abolição: questões Atlânticas |
 | ------------- | ----------------------------------------------------------- |
