@@ -1,5 +1,5 @@
 ---
-title: "Cronograma"
+title: "Cronograma da disciplina O Mundo Atlântico"
 author: "Eric Brasil"
 email: profericbrasil@unilab.edu.br
 date: 2022-03-31
