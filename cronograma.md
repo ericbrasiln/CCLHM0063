@@ -1,16 +1,16 @@
 ---
-title: "3. Cronograma"
+title: "Cronograma"
+author: "Eric Brasil"
+email: profericbrasil@unilab.edu.br
 date: 2022-03-31
 description: "A divisão dos dias, atividades e temas"
-draft: false
-weight: 3
 ---
 
 # CCLHM0063 - O Mundo Altântico
 
 Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
-no Twitter como ['@ericbrasiln'](https://twitter.com/ericbrasiln)  
+no Twitter ['@ericbrasiln'](https://twitter.com/ericbrasiln)  
 ou por e-mail : [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br) / [ericbrasiln@protonmail.com](mailto:ericbrasiln@protonmail.com)
 
 **Instituto de Humanidades e Letras, campus dos Malês, 
@@ -42,9 +42,7 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 🏫 **Aulas presenciais no campus:**
 
 - 12/05: Aula Presencial 2
-
 - 02/06: Aula Presencial 3
-
 - 23/06: Aula Presencial 4
 
 ---
@@ -67,9 +65,9 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 ### Período: 11/04/2022 - 15/04/2022
 
 | Módulo        | 1 - O Atlântico como conceito historiográfico | 1 - O Atlântico como conceito historiográfico |
-| ------------- | --------------------------------------------- | --------------------------------------------- |
+| ------------- | :--------------------------------------------- | :--------------------------------------------- |
 | Tipo          | 🤖 Atividade 2 (AA)                           | 🤖 Atividade 3 (AA)                           |
-| Data          | 11/04/2022 - 15/04/2022                       | 11/04/2022 - 15/04/2022                       |
+| Data          | 11/04/2022 - 13/04/2022                       | 11/04/2022 - 20/04/2022                       |
 | Carga Horária | 2h                                            | 4h                                            |
 | Tema          | Vídeo de apoio                                | Relatório do módulo 1                         |
 
@@ -79,12 +77,12 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 ### Período: 18/04/2022 - 22/04/2022
 
-| Módulo        | 2 - Impérios, economias e explorações transatlânticas                    | 2 - Impérios, economias e explorações transatlânticas |
-| ------------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
-| Tipo          | 💻 Aula Síncrona on-line                                                 | 📖 Bibliografia para aula síncrona                    |
-| Data          | 21/04/2022                                                               | 21/04/2022                                            |
-| Carga Horária | 4h                                                                       | 3h                                                    |
-| Tema          | Religião, raça e civilização: projetos coloniais europeus na era Moderna | Biblio                                                |
+| Módulo        | 2 - Impérios, economias e explorações transatlânticas                    |
+| ------------- | :------------------------------------------------------------------------ |
+| Tipo          | 🤖 Atividade 3 (AA) |
+| Data          | 18/04/2022 - 20/04/2022 |
+| Carga Horária | 4h | 
+| Tema          | Religião, raça e civilização: projetos coloniais europeus na era Moderna | 
 
 ---
 
@@ -107,10 +105,10 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 
 | Módulo        | 2 - Impérios, economias e explorações transatlânticas | 2 - Impérios, economias e explorações transatlânticas |
 | ------------- | ----------------------------------------------------- | ----------------------------------------------------- |
-| Tipo          | 🤖 Atividade 4 (AA)                                   | 📬 Atividade 5 (AA)                                   |
-| Data          | 02/05/2022 - 06/05/2022                               | 02/05/2022 - 06/05/2022                               |
+| Tipo          | 💻 Aula Síncrona on-line                                   | 📬 Atividade 4 (AA)                                   |
+| Data          | 05/05/2022 | 02/05/2022 - 12/05/2022                               |
 | Carga Horária | 2h                                                    | 4h                                                    |
-| Tema          | Vídeo de apoio                                        | Relatório sobre o módulo 2                            |
+| Tema          | Escravidão e tráfico nas duas margens do Atlântico                                        | Relatório sobre o módulo 2                            |
 
 ---
 
@@ -121,7 +119,7 @@ A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 | Módulo        | 3 - O Atlântico Revolucionário | 3 - O Atlântico Revolucionário         |
 | ------------- | ------------------------------ | -------------------------------------- |
 | Tipo          | 🙋 Aula Presencial 1 (AP)      | 📖 Bibliografia para aula presencial 1 |
-| Data          | 14/05/2022                     | 14/05/2022                             |
+| Data          | 12/05/2022                     | 12/05/2022                             |
 | Carga Horária | 4h                             | 3h                                     |
 | Tema          | A Hidra de muitas cabeças.     | biblio                                 |
 
@@ -174,7 +172,7 @@ CH = 7h
 
 | Módulo        | 3 - O Atlântico Revolucionário | 3 - O Atlântico Revolucionário |
 | ------------- | ------------------------------ | ------------------------------ |
-| Tipo          | 🤖 Atividade 6 (AA)            | 📬 Atividade 7 (AA)            |
+| Tipo          | 🤖 Atividade 5 (AA)            | 📬 Atividade 6 (AA)            |
 | Data          | 06/06/2022 - 10/06/2022        | 06/06/2022 - 10/06/2022        |
 | Carga Horária | 2h                             | 4h                             |
 | Tema          | Vídeo de apoio                 | Relatório sobre o módulo 3     |
