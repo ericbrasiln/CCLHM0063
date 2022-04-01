@@ -1,20 +1,24 @@
-# CCLHM0063 - O Mundo Atlântico
+---
+title: CCLHM0063 - O Mundo Atlântico
+author: Eric Brasil
+institution: UNILAB
+lang: pt-BR
+---
+# Programa
 
-Professor [_Eric Brasil_](https://ericbrasiln.github.io)
+Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHLM/UNILAB)
 
-**Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHLM/UNILAB)**
+Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)
 
-**Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
+Semestre: 2021.2
 
-**Semestre**: 2021.2
-
-**Carga Horária**:
+Carga Horária:
 
 | Teórica             | Prática como compontente curricular         | Total |
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
-**Horário das aulas** (conforme cronograma [EM BREVE]): quintas-feiras, noturno.
+Horário das aulas (conforme cronograma [EM BREVE]): quintas-feiras, noturno.
 
 ## Ementa
 
