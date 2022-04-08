@@ -37,7 +37,7 @@ Horário das aulas (conforme [cronograma](cronograma.html)): quintas-feiras, not
 
 O Atlântico como conceito historiográfico: História Atlântica e História Transnacional, Diáspora Africana e Atlântico Negro. Estados Nacionais, economias e explorações transatlânticas. Religião, raça e civilização: projetos coloniais europeus na era Moderna; Escravidão, tráfico e resistências nas duas margens do Atlântico; O Atlântico Revolucionário: a Revolução Americana e seus impactos Atlânticos; O Haiti e o temor do Haitianismo. Liberdade, Emancipações e Abolição: questões Atlânticas. O ensino dos temas relativos ao mundo atlântico na escola básica.
 
-[Voltar ao Índice](#indice)
+[Voltar ao Índice](#índice)
 
 ## Bibliografia
 
@@ -52,7 +52,7 @@ JAMES, C. L. R. *Jacobinos negros*: Toussaint L'Ouverture e a revolução de Sã
 LINEBAUGH, Peter; REDIKER, Marcus. *A hidra de muitas cabeças*: marinheiros, escravos, plebeus e a história oculta do Atlântico 
 revolucionário. São Paulo: Companhia das Letras, 2008.
 
-[Voltar ao Índice](#indice)
+[Voltar ao Índice](#índice)
 
 ### Bibliografia Complementar
 
@@ -66,7 +66,7 @@ GENOVESE, Eugene. *Da Rebelião à revolução*. São Paulo: Editora Global, 198
 
 MINTZ, Sidney; PRICE, Richard. *O nascimento da cultura afro-americana*: uma perspectiva antropológica. Rio de Janeiro: Pallas, 2003.
 
-[Voltar ao Índice](#indice)
+[Voltar ao Índice](#índice)
 
 ##  Estrutura do curso
 
@@ -92,7 +92,7 @@ MINTZ, Sidney; PRICE, Richard. *O nascimento da cultura afro-americana*: uma per
 9. Brasil, Cuba e EUA: segunda escravidão?
 10. Cultura Negra no Atlântico
 
-[Voltar ao Índice](#indice)
+[Voltar ao Índice](#índice)
 
 ## Metodologia
 
@@ -157,7 +157,7 @@ Buscando otimizar nosso tempo e ampliar a possibilidade de aulas, teremos alguns
 - O trabalho final vale **7,0 pontos**.
 - As frequências serão aferidas através de chamada nas aulas presenciais e entrega dessas atividades assíncronas.
 
-[Voltar ao Índice](#indice)
+[Voltar ao Índice](#índice)
 
 ## Guia de boas práticas
 
@@ -204,4 +204,4 @@ Lembrem que é preciso citar e explicitar os trechos e ideias de outros autores 
 
 O uso de textos em páginas da WEB também exige a indicação da referência.
 
-[Voltar ao Índice](#indice)
+[Voltar ao Índice](#índice)
