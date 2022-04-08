@@ -4,27 +4,44 @@ author: Eric Brasil
 institution: UNILAB
 lang: pt-BR
 ---
-# Programa
+# CCLHM0063 - O Mundo Altântico
 
-Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (IHLM/UNILAB)
+Professor [_Eric Brasil_](https://ericbrasiln.github.io)
 
-Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)
+no Twitter ['@ericbrasiln'](https://twitter.com/ericbrasiln)  
+ou por e-mail : [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br) / [ericbrasiln@protonmail.com](mailto:ericbrasiln@protonmail.com)
 
-Semestre: 2021.2
+**Instituto de Humanidades e Letras, campus dos Malês, 
+Universidade da Integração Internacional da Lusofonia Afro-brasileira 
+(UNILAB)**
 
-Carga Horária:
+**Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
+
+**Semestre**: 2021.2
+
+**Carga Horária**:
 
 | Teórica             | Prática como compontente curricular         | Total |
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
-Horário das aulas (conforme cronograma [EM BREVE]): quintas-feiras, noturno.
+Horário das aulas (conforme [cronograma](cronograma.html)): quintas-feiras, noturno.
+
+## Índice 
+
+[TOC]
+
+
 
 ## Ementa
 
 O Atlântico como conceito historiográfico: História Atlântica e História Transnacional, Diáspora Africana e Atlântico Negro. Estados Nacionais, economias e explorações transatlânticas. Religião, raça e civilização: projetos coloniais europeus na era Moderna; Escravidão, tráfico e resistências nas duas margens do Atlântico; O Atlântico Revolucionário: a Revolução Americana e seus impactos Atlânticos; O Haiti e o temor do Haitianismo. Liberdade, Emancipações e Abolição: questões Atlânticas. O ensino dos temas relativos ao mundo atlântico na escola básica.
 
-## Bibliografia Básica
+[Voltar ao Índice](#indice)
+
+## Bibliografia
+
+### Bibliografia Básica
 
 GILROY, P. *O atlântico negro*: modernidade e dupla consciência. São Paulo: Editora 34, 2001.
 
@@ -35,7 +52,9 @@ JAMES, C. L. R. *Jacobinos negros*: Toussaint L'Ouverture e a revolução de Sã
 LINEBAUGH, Peter; REDIKER, Marcus. *A hidra de muitas cabeças*: marinheiros, escravos, plebeus e a história oculta do Atlântico 
 revolucionário. São Paulo: Companhia das Letras, 2008.
 
-## Bibliografia Complementar
+[Voltar ao Índice](#indice)
+
+### Bibliografia Complementar
 
 BERNAND, Carmen; GRUZINSKI, Serge. História do Novo Mundo. São Paulo: Edusp, 2001.
 
@@ -46,6 +65,8 @@ HALL, S. *Da diáspora*: identidades e mediações culturais. Belo Horizonte: Ed
 GENOVESE, Eugene. *Da Rebelião à revolução*. São Paulo: Editora Global, 1983.
 
 MINTZ, Sidney; PRICE, Richard. *O nascimento da cultura afro-americana*: uma perspectiva antropológica. Rio de Janeiro: Pallas, 2003.
+
+[Voltar ao Índice](#indice)
 
 ##  Estrutura do curso
 
@@ -70,6 +91,8 @@ MINTZ, Sidney; PRICE, Richard. *O nascimento da cultura afro-americana*: uma per
 8. Fim do tráfico e da escravidão nas colônias inglesas e francesas nas Américas
 9. Brasil, Cuba e EUA: segunda escravidão?
 10. Cultura Negra no Atlântico
+
+[Voltar ao Índice](#indice)
 
 ## Metodologia
 
@@ -134,6 +157,8 @@ Buscando otimizar nosso tempo e ampliar a possibilidade de aulas, teremos alguns
 - O trabalho final vale **7,0 pontos**.
 - As frequências serão aferidas através de chamada nas aulas presenciais e entrega dessas atividades assíncronas.
 
+[Voltar ao Índice](#indice)
+
 ## Guia de boas práticas
 
 Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2021.2.
@@ -178,3 +203,5 @@ Qualquer atividade com ocorrência de plágio será zerada.
 Lembrem que é preciso citar e explicitar os trechos e ideias de outros autores que sejam utilizadas por vcs na escrita das atividades.
 
 O uso de textos em páginas da WEB também exige a indicação da referência.
+
+[Voltar ao Índice](#indice)
