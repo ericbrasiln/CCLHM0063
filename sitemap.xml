@@ -2,27 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ericbrasiln.github.io/cclhm0063/</loc>
-         <lastmod>2022-04-08</lastmod>
+         <lastmod>2022-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ericbrasiln.github.io/cclhm0063/contatos/</loc>
-         <lastmod>2022-04-08</lastmod>
+         <lastmod>2022-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ericbrasiln.github.io/cclhm0063/cronograma/</loc>
-         <lastmod>2022-04-08</lastmod>
+         <lastmod>2022-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericbrasiln.github.io/cclhm0063/leituras/</loc>
+         <lastmod>2022-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ericbrasiln.github.io/cclhm0063/license/</loc>
-         <lastmod>2022-04-08</lastmod>
+         <lastmod>2022-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ericbrasiln.github.io/cclhm0063/praticas/</loc>
-         <lastmod>2022-04-08</lastmod>
+         <lastmod>2022-04-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericbrasiln.github.io/cclhm0063/tarefas/</loc>
+         <lastmod>2022-04-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
