@@ -21,7 +21,7 @@ Universidade da Integração Internacional da Lusofonia Afro-brasileira
 
 **Carga Horária**:
 
-| Teórica             | Prática como compontente curricular         | Total |
+| Teórica             | Prática como componente curricular         | Total |
 |:--------------------|:------------------|:---------|
 | 60h | 15h | 75h |
 
