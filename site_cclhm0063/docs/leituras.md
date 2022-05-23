@@ -8,13 +8,13 @@ Textos organizados por semanas.
 
 [ARMITAGE, D. Três conceitos de história atlântica. *História Unisinos*, v. 18, n. 2, p. 206–217, 12 ago. 2014](http://revistas.unisinos.br/index.php/historia/article/view/7035/4260) 
 
-BUTLER, Kim. Definições de Diáspora: Articulação de um discurso comparativo. IN: BUTLER; Domingues. **Diáspora Imaginadas**: Atlântico negro e histórias afro-brasileiras. São Paulo: Perspectiva, 2020.
+[BUTLER, Kim. Definições de Diáspora: Articulação de um discurso comparativo. IN: BUTLER; Domingues. **Diáspora Imaginadas**: Atlântico negro e histórias afro-brasileiras. São Paulo: Perspectiva, 2020.](pdfs/BUTLER_01_OCR.pdf)
 
 ## 🤖 Atividade 2
 
 **Tema: Religião, raça e civilização: projetos coloniais europeus na era Moderna**
 
-MARQUESE, R. DE B. Antiescravismo, reforma e governo dos escravos nas Antilhas francesas e inglesas, 1750-1800. In: *Feitores do corpo, missionários da mente: senhores, letrados e o controle dos escravos nas Américas, 1660-1860.* São Paulo: Companhia das Letras, 2004.
+[Stolke, Verena. “O enigma das interseções: classe," raça", sexo, sexualidade: a formação dos impérios transatlânticos do século XVI ao XIX”. Revista Estudos Feministas 14, nº 1 (2006): 15–42.](https://www.scielo.br/j/ref/a/CmtTSC5w3Tf5tqcFS4bmwBd/?format=pdf&lang=pt)
 
 ## 📖 Bibliografia para aula síncrona 2
 
@@ -28,13 +28,28 @@ LINEBAUGH, Peter; REDIKER, Marcus. Hidrarquia: marinheiros, piratas e o Estado m
 
 **Tema: Revolução Americana vista de baixo**
 
-LINEBAUGH, Peter; REDIKER, Marcus. A horda heterogênea na Revolução Americana. In: *A hidra de muitas cabeças: marinheiros, escravos, plebeus e a história oculta do Atlântico revolucionário.* São Paulo: Companhia das Letras, 2008.
+[WOOD, Gordon. III. A Revolução In: A Revolução Americana. Rio de Janeiro: Objetica, 2013.](pdfs/WOOD_REV_AMER-OCR.pdf)
 
 ## 📖 Leitura 4
 
 **Tema: A O Haiti e o temor do Haitianismo**
 
-SCOTT, Rebecca; HÉBRARD, Jean. "Rosalie... minha escrava". In: **Provas de liberdade**: Uma odisseia atlântica na era da emancipação. Campinas, SP: Editora da Unicamp, 2014.
+[SCOTT, Rebecca; HÉBRARD, Jean. "Rosalie... minha escrava". In: **Provas de liberdade**: Uma odisseia atlântica na era da emancipação. Campinas, SP: Editora da Unicamp, 2014.](pdfs/hebrard_scott.pdf)
+
+## 🤖 Atividade 5
+
+**Tema: O Haiti e o temor do Haitianismo**
+
+Vídeos de apoio:
+
+1. [Revolução Haitiana | História Preta S01E01](https://www.youtube.com/watch?v=ecEXsWMQUpc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecEXsWMQUpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+2. [#4 Enegrecendo Referências - Revolução Haitiana - Bethânia Pereira](https://www.youtube.com/watch?v=ZfXXX14ZGGo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZfXXX14ZGGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 📖 Bibliografia para aula presencial 2
 

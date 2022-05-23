@@ -109,7 +109,7 @@ Carga horária: 6h
 | Tipo          | 🤖 Atividade 3                                         | [📬 Tarefa 2](https://ericbrasiln.github.io/cclhm0063/tarefas/#tarefa-2-relatorio-do-modulo-2)                                            |
 | Data          | 02/05/2022 - 06/05/2022                               | 02/05/2022 - 12/05/2022                               |
 | Carga Horária | 2h                                                    | 4h                                                    |
-| Tema          | Vídeo de apoio   (EM BREVE)                               | Relatório sobre o módulo 2                            |
+| Tema          | Vídeo de apoio: [Raça e seus significados na América (séculos XVII - XVIII) por Bruno Silva (Unifesspa)](https://youtu.be/LuI68MhO2TE)                              | Relatório sobre o módulo 2                            |
 
 ---
 
@@ -154,7 +154,7 @@ Carga horária: 6h
 | Tipo          | [📖 Leitura 4](https://ericbrasiln.github.io/cclhm0063/leituras/#leitura-4)                        | 🤖 Atividade 5                      |
 | Data          | 23/05/2022 - 27/05/2022            | 23/05/2022 - 27/05/2022            |
 | Carga Horária | 4h                                 | 2h                                 |
-| Tema          | Revolução do Haiti | A O Haiti e o temor do Haitianismo |
+| Tema          | Revolução do Haiti | O Haiti e o temor do Haitianismo |
 
 ---
 
